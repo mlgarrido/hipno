@@ -1,0 +1,6 @@
+{
+  "id": "device-01",
+  "id": "Device 1",
+  "server": "server ip",
+  "token": "apitoken"
+}

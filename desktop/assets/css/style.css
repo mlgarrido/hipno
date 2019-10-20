@@ -1,0 +1,26 @@
+html, body {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background-color: transparent;
+  padding: 0;
+  margin: 0;
+}
+
+#content {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+}
+
+#content.disconnected {
+  background: transparent url('../img/snorlax-gray-24.png') center center no-repeat;
+}
+
+#content.connected {
+  background: transparent url('../img/snorlax-24.png') center center no-repeat;
+}
